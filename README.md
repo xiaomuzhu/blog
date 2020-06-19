@@ -34,3 +34,8 @@
 1. [100万个成员的数组取第一个和最后一个有性能差距吗?](https://github.com/xiaomuzhu/blog/issues/11)
 2. [既然已经有数组了,为什么还要链表？](https://github.com/xiaomuzhu/blog/issues/12)
 3. [一文彻底讲通动态规划](https://github.com/xiaomuzhu/blog/issues/13)
+
+
+## License
+
+所有文章采用[知识共享署名-非商业性使用-相同方式共享 3.0 中国大陆许可协议](http://creativecommons.org/licenses/by-nc-sa/3.0/cn/)进行许可。
